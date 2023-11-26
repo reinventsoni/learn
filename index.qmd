@@ -1,8 +1,6 @@
 ---
-title: "learn"
+title: "Journey to reinvent myself as CREATOR"
 ---
-
-# My Learning Journey
 
 Sanjay Soni's Personal Developer Website
 Checking the Publishing Workflow is working fine or not
