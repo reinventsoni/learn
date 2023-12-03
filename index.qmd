@@ -7,3 +7,6 @@ After close to two decades in the IT industry where I started my journey as a so
 The first thing which came to mind was to enable what I call as "CREATOR MODE". To put simply it means that whatever ideas (crazy or not) are in my mind I should be able to implement them, I should be able the create that software. And that started the journey of curiousness, inquisitiveness, learning and re-learning. One of the things which was apparent in that was the need to have a digital presence. 
 
 For that very reason this site has been created to serve as a small island in the vast ocean of INTERNET, my digital home if you will. Here I am going to capture what I have learnt, and what I am learning now. Looking forward to how this adventure evolves and shapes up. 
+
+1. [Introduction to Probability](probability/index.qmd)
+2. 

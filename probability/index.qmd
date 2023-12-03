@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Probability"
 ---
-
+[Go Back](../index.qmd)
 ### Overview
 In this section we will cover the concepts of probability in a bottoms up fashion, starting from counting.
 
