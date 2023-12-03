@@ -1,0 +1,11 @@
+---
+title: "Introduction to Probability"
+---
+
+### Overview
+In this section we will cover the concepts of probability in a bottoms up fashion, starting from counting.
+
+1. Counting
+: Its important to understand the foundation of counting, as the probability is build upon properly counting distinict and indistict objects based on certain conditions and scenarios
+
+2. Probability
