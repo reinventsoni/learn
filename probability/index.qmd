@@ -6,6 +6,16 @@ title: "Introduction to Probability"
 In this section we will cover the concepts of probability in a bottoms up fashion, starting from counting.
 
 1. Counting
-: Its important to understand the foundation of counting, as the probability is build upon properly counting distinict and indistict objects based on certain conditions and scenarios
+: Counting, specifically speaking, counting the number of outcomes is an important foundation when it comes to probability. We all know counting, but let's just say its the basic counting (in sequence) we all are versed in, but what we really need is to count number of outcomes, number of objects based on various scenarios, selections criteria, distinct and non-distinct nature of objects as a first step to master probability. 
+
+* Step Rule of Counting
+* OR Rule of Counting
+
+* unordered list
+    + sub-item 1
+    + sub-item 2
+        - sub-sub-item 1
+
+__Counting with Steps__
 
 2. Probability
